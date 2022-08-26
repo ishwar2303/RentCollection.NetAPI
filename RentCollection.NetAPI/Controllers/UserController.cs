@@ -97,6 +97,7 @@ namespace RentCollection.NetAPI.Controllers
         [Route("Authentication/Testing")]
         public IActionResult AuthenticationTesting()
         {
+
             return Ok("Authentication Working");
         }
 
