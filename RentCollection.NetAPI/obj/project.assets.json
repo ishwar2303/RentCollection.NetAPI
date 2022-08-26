@@ -9458,24 +9458,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/ishwarbaisla/.nuget/packages/": {}
+    "C:\\Users\\abhi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Study/CS/DotNet/API/RentCollection.NetAPI/RentCollection.NetAPI/RentCollection.NetAPI.csproj",
+      "projectUniqueName": "D:\\softwares\\c# tutorial\\RentCollection\\RentCollection.NetAPI\\RentCollection.NetAPI.csproj",
       "projectName": "RentCollection.NetAPI",
-      "projectPath": "/Volumes/Study/CS/DotNet/API/RentCollection.NetAPI/RentCollection.NetAPI/RentCollection.NetAPI.csproj",
-      "packagesPath": "/Users/ishwarbaisla/.nuget/packages/",
-      "outputPath": "/Volumes/Study/CS/DotNet/API/RentCollection.NetAPI/RentCollection.NetAPI/obj/",
+      "projectPath": "D:\\softwares\\c# tutorial\\RentCollection\\RentCollection.NetAPI\\RentCollection.NetAPI.csproj",
+      "packagesPath": "C:\\Users\\abhi\\.nuget\\packages\\",
+      "outputPath": "D:\\softwares\\c# tutorial\\RentCollection\\RentCollection.NetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ishwarbaisla/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9551,12 +9553,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[3.1.24, 3.1.24]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9565,7 +9561,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
